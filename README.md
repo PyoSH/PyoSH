@@ -4,4 +4,4 @@
 - 📫 How to reach me 
       1) email: jeongmok99@koreatech.ac.kr
 
-My blog URL : https://exciting2wednesday.tistory.com/ - will be updated in  2023
+My blog URL : https://exciting2wednesday.tistory.com/
