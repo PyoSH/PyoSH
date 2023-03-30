@@ -6,5 +6,4 @@
 - 🧗 I do **rock climbing** and I Hope to learn 🏄surfing and 🤿diving skills someday.
 
 ### If you want to know more about me
-Please send me an email 📫, or you can visit my Blog [HERE](https://exciting2wednesday.tistory.com/) :) <br>
-📧 jeongmok99@koreatech.ac.kr
+Please send me an email 📫(jeongmok99@koreatech.ac.kr), or you can visit my Blog [HERE](https://exciting2wednesday.tistory.com/) :)
