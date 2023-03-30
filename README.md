@@ -6,5 +6,5 @@
 - 🧗 I do **rock climbing** and I Hope to learn 🏄surfing and 🤿diving skills someday.
 
 ### If you want to know more about me
-Please send me an email 📫, or you can visit my Blog :)
+Please send me an email 📫, or you can visit my Blog :) <br>
 Currently, my email address is: jeongmok99@koreatech.ac.kr
