@@ -7,3 +7,4 @@
 
 ### If you want to know more about me
 Please send me an email 📫, or you can visit my Blog :)
+Currently, my email address is: jeongmok99@koreatech.ac.kr
