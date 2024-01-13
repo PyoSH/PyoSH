@@ -1,9 +1,9 @@
 ## Hi! I'm Seunghyun.
-- 🌠 I dream about space explorations
+- 🌠 I dream about space explorations & underwater
 - 🤖 I am interested in **Mobile Robot Perception**
-- 📷 For that, I'm studying **computer vision** in event & frame camera
+- 📷 For that, I'm studying **3D vision** with underwater environment.
 - 🧠 Also, **Deep Learning** is my interest for processing sensor datas.
-- 🧗 I do **rock climbing** and I Hope to learn 🏄surfing and 🤿diving skills someday.
+- 🧗 I do **rock climbing** and 🤿diving, and I Hope to learn 🏄surfing skills someday.
 
 ### If you want to know more about me
-Please send me an email 📫(jeongmok99@koreatech.ac.kr), or you can visit my Blog [HERE](https://exciting2wednesday.tistory.com/) :)
+Please send me an email 📫(jeongmok99@gmail.com), or you can visit my Blog [HERE](https://exciting2wednesday.tistory.com/) :)
